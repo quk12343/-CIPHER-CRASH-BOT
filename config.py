@@ -1,0 +1,9 @@
+TOKEN = 'ТОКЕН БОТА'
+prefix = "!"
+log_channel = КАНАЛ ДЛЯ ЛОГОВ
+admin = 'GOD'
+save_guild =  АЙ ДИ ВАШЕГО СЕРВЕРА
+main_invite = "https://discord.gg/fXdjpdwf"
+icon = "ссылка"
+developer = "ВАШ АЙ ДИ"
+bot_name = "name"
