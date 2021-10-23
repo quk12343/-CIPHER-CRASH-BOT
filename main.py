@@ -13,20 +13,7 @@ client = commands.Bot(command_prefix=config.prefix, self_bot=False)  # Преф�
 client.remove_command('help')
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-##################DATABASE FUNC######################
+##################DATABASE FUNC##########
 
 def create_connection(path):
     connection = None
