@@ -1,0 +1,9 @@
+TOKEN = 'OTAxMzkxOTg1NTE1MDQ0ODc0.YXPMtA.1IMT23c1T6c-axdq7uJ51YZAK6A'
+prefix = "!"
+log_channel = 889811964921016340
+admin = 'GOD'
+save_guild = 889786618179891200
+main_invite = "https://discord.gg/fXdjpdwf"
+icon = "ссылка"
+developer = "708207667063291944"
+bot_name = "name"
